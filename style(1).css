@@ -1,0 +1,46 @@
+/* CSS Document */
+
+.bg-black{background-color: rgba(14,14,14,1.00)}
+.carousel-caption{top:200px;}
+
+.bg-orange{background-color: #695036; color:aliceblue; font-weight:600; text-align:center}
+
+.color{color:red;}
+
+.explore{
+	margin:0 auto;
+	position:relative;
+	top:40px;
+
+}
+
+.khakestari {
+	background-color: #FDE4E4;
+	height:700px;
+}
+
+
+.secondrow{
+	margin-top:100px;
+
+}
+
+.secondphase{
+	margin-top: 20px;
+	background-color: #FDE4E4;
+}
+
+.marginset{
+	margin-bottom: 30px;
+}
+
+
+.position{
+	z-index: 1000;
+	position:fixed;
+}
+.nav22{
+	position:relative;
+	top:35px;
+	z-index: 1000;
+}
